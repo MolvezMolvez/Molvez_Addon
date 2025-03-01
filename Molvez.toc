@@ -1,0 +1,11 @@
+## Title: Molvez
+## IconTexture: Interface\AddOns\Molvez\Molvez_Element\Image\Logo\Logo.png
+## Notes: En création..
+## Author: Henriette#21553
+## Version: 1.0
+## Interface: 110007, 110100
+## X-Interface: 110007, 110100
+
+Molvez_Element/Load.xml
+Molvez_Core/Load.xml
+Molvez_Addon/Load.xml
